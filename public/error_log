@@ -1,0 +1,1 @@
+[25-Jul-2022 13:55:49 America/Mexico_City] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home2/stormonl/fyc.store-line.stormonlinegroup.com/vendor/composer/platform_check.php on line 24
